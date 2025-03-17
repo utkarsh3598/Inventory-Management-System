@@ -45,5 +45,5 @@ This is a simple **Inventory Management System** implemented in C++ that allows 
    ```
 
 ## Author
-Developed by [Utkarsh].
+Developed by Utkarsh.
 
